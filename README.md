@@ -4,7 +4,7 @@ A Chip-8 interpreter written in [Mojo](https://www.modular.com/mojo), using SDL2
 
 Chip-8 is a virtual machine from the late 1970s, originally designed to make game development easier on early home computers. It features 4KB RAM, 16 general-purpose 8-bit registers, a 64x32 monochrome display and a 16-key hexadecimal keypad.
 
-- Specifications: <http://devernay.free.fr/hacks/chip8/C8TECH10.HTML>
+- Specifications: <http://devernay.free.fr/hacks/chip8/C8TECH10.HTM>
 
 ## Implementation
 
